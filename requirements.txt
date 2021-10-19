@@ -1,0 +1,8 @@
+###### Requirements without Version Specifiers ######
+watchdog
+json
+time
+sys
+pychromecast
+logging
+pychromecast
